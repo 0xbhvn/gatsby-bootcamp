@@ -14,7 +14,8 @@ function Footer() {
   `)
 
   return (
-    <footer>
+    <footer className={footerStyles.footer}>
+      <hr />
       <p>
         Created with <span className={footerStyles.heart}>&hearts;</span> by{" "}
         {data.site.siteMetadata.author}

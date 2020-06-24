@@ -7,6 +7,8 @@ date: "2020-04-02"
 
 ## Rex miles nunc dedi inmittite o murmurat
 
+![Arctichare](./arctichare.png)
+
 Lorem markdownum dividit prementem, sacer praebuerat efficiet sonantia tempore
 quem: sed. Vigilans numina, murram astra, diva medias visum conprecor per quod
 postquam: a? Nec cruentati edax rerum! Atria quid iusto! Levavit et insula
