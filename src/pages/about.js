@@ -2,14 +2,11 @@ import React from "react"
 import { Link } from "gatsby"
 import Layout from "../components/Layout"
 
-const IndexPage = () => {
+const AboutPage = () => {
   return (
     <Layout>
-      <h1>Hello.</h1>
-      <h3>I'm Bhaven, a full-stack developer, living in a beautiful city.</h3>
-      <p>
-        <Link to="/about">Read more</Link> about me.
-      </p>
+      <h1>About Me</h1>
+      <p>This page is about me and all of my work.</p>
       <p>
         Need a developer? <Link to="/contact">Contact me.</Link>
       </p>
@@ -17,4 +14,4 @@ const IndexPage = () => {
   )
 }
 
-export default IndexPage
+export default AboutPage
