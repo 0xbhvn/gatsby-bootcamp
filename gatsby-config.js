@@ -11,6 +11,13 @@ module.exports = {
     author: "Bhaven",
   },
   plugins: [
+    {
+      resolve: "gatsby-source-contentful",
+      options: {
+        spaceId: "v6tof7023ffs",
+        accessToken: "iCGXIx_gOTiLn_FGtDb8wfAvf6_ETf-0KycbSZt2waI",
+      },
+    },
     "gatsby-plugin-sass",
     {
       resolve: "gatsby-source-filesystem",
